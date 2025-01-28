@@ -5,9 +5,6 @@ Here is a GitHub README file for your Sales Dashboard project using Power BI:
 # 📊 Sales Dashboard using Power BI  
 
 
-![image](https://github.com/user-attachments/assets/c1bc9881-b6cd-4270-8cec-2c79722e67ab)
-
-
 
 ## 📌 Overview  
 This project is a **Sales Dashboard** built using **Power BI**, which provides insightful visualizations and analytics for sales performance. The dashboard helps in understanding key sales trends, profit distribution, and performance across different segments, months, and regions.  
@@ -39,7 +36,7 @@ The dataset used in this dashboard includes sales data for multiple years, with 
 - Improve **decision-making** using data-driven insights  
 
 ## 📸 Dashboard Preview  
-![Sales Dashboard](image.png)  
+![image](https://github.com/user-attachments/assets/c1bc9881-b6cd-4270-8cec-2c79722e67ab)
 
 ## 🚀 How to Use  
 1. **Download the Power BI (.pbix) file** from the repository  
