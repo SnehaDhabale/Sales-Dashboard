@@ -5,7 +5,8 @@ Here is a GitHub README file for your Sales Dashboard project using Power BI:
 # 📊 Sales Dashboard using Power BI  
 
 
-![image](https://github.com/user-attachments/assets/eaab4754-6e38-4eca-bcdc-4da294001312)
+![image](https://github.com/user-attachments/assets/c1bc9881-b6cd-4270-8cec-2c79722e67ab)
+
 
 
 ## 📌 Overview  
