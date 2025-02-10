@@ -36,7 +36,8 @@ The dataset used in this dashboard includes sales data for multiple years, with 
 - Improve **decision-making** using data-driven insights  
 
 ## 📸 Dashboard Preview  
-![image](https://github.com/user-attachments/assets/6fb198f9-6be3-4e71-b6e5-dfbce228d1d8)
+![image](https://github.com/user-attachments/assets/40495e6e-f7ba-4eba-a3fa-db8e9332e90b)
+
 
 ## 🚀 How to Use  
 1. **Download the Power BI (.pbix) file** from the repository  
